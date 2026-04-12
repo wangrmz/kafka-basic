@@ -1,0 +1,16 @@
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerParameters.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumerSeek.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducer.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumerAutoOffset.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumerByHandSync.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerCallbackPartitions.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/MyPartitioner.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerSync.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerAcks.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerTranactions.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumerPartition.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumer2.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumer.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumer1.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/producer/CustomProducerCallback.java
+/Users/wangrumeng/Wrm/Java/Kafka/workspace/kafka-basic/kafka-demo/src/main/java/com/atguigu/kafka/consumer/CustomConsumerSeekTime.java
