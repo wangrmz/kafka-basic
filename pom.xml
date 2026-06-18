@@ -21,6 +21,7 @@
     <modules>
         <module>kafka-demo</module>
         <module>kafka-flink</module>
+
         <module>kafka-springboot</module>
         <module>kafka-spark</module>
     </modules>
